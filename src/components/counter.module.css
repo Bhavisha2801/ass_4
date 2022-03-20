@@ -1,0 +1,19 @@
+.inc{
+    background-color: greenyellow;
+    margin: 2%;
+}
+.dec{
+    background-color: brown;
+    margin: 2%;
+}
+.doub{
+    background-color: cadetblue;
+    margin: 2%;
+}
+button{
+    width: 30%;
+    height: 40px;
+    border: none;
+    border-radius: 2%;
+    box-shadow: 10px 10px 10px gray;
+}
